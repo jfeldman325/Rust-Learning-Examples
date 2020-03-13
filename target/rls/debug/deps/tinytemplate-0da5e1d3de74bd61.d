@@ -1,0 +1,10 @@
+/Users/jacobfeldman/Documents/Rust-Wasm-Js/target/rls/debug/deps/tinytemplate-0da5e1d3de74bd61.rmeta: /Users/jacobfeldman/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.0.3/src/lib.rs /Users/jacobfeldman/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.0.3/src/compiler.rs /Users/jacobfeldman/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.0.3/src/error.rs /Users/jacobfeldman/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.0.3/src/instruction.rs /Users/jacobfeldman/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.0.3/src/syntax.rs /Users/jacobfeldman/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.0.3/src/template.rs
+
+/Users/jacobfeldman/Documents/Rust-Wasm-Js/target/rls/debug/deps/tinytemplate-0da5e1d3de74bd61.d: /Users/jacobfeldman/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.0.3/src/lib.rs /Users/jacobfeldman/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.0.3/src/compiler.rs /Users/jacobfeldman/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.0.3/src/error.rs /Users/jacobfeldman/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.0.3/src/instruction.rs /Users/jacobfeldman/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.0.3/src/syntax.rs /Users/jacobfeldman/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.0.3/src/template.rs
+
+/Users/jacobfeldman/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.0.3/src/lib.rs:
+/Users/jacobfeldman/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.0.3/src/compiler.rs:
+/Users/jacobfeldman/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.0.3/src/error.rs:
+/Users/jacobfeldman/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.0.3/src/instruction.rs:
+/Users/jacobfeldman/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.0.3/src/syntax.rs:
+/Users/jacobfeldman/.cargo/registry/src/github.com-1ecc6299db9ec823/tinytemplate-1.0.3/src/template.rs:

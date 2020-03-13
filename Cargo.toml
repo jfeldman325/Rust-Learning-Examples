@@ -1,2 +1,2 @@
 [workspace]
-members = ["guessing_game","variables","functions","loops","ownership","structs","enums","restaurant","collections","errors","generics"]
+members = ["guessing_game","variables","functions","loops","ownership","structs","enums","restaurant","collections","errors","generics","traits","lifetimes","testing"]

@@ -45,11 +45,29 @@ impl point<i32, i32> {
     }
 }
 
-fn largest<T>(list: &[T]) -> T {
+fn largest<T>(list: &[T]) -> &T
+where
+    T: std::fmt::Display + std::cmp::PartialOrd,
+{
+    let mut largest = &list[0];
+    for item in list.iter() {
+        if item > &largest {
+            largest = &*item;
+        }
+    }
+    largest
+}
+
+//implements the largest function for types that have the Copy trait. This will take up more memory
+fn largest_with_copy<T>(list: &[T]) -> T
+where
+    T: std::fmt::Display + std::cmp::PartialOrd + Copy,
+{
     let mut largest = list[0];
     for &item in list.iter() {
         if item > largest {
             largest = item;
         }
     }
+    largest
 }
